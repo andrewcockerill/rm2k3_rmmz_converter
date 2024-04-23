@@ -19,7 +19,7 @@ Where <tt>N</tt> is a whole number scaling factor. This can be omitted if no sca
 
 ### Example
 
-This example uses the free spritemight's Sprite Might assets available at https://forums.rpgmakerweb.com/index.php?threads/sprite-might-assets-rpg-maker-2003.76339/ :
+This example uses the free Sprite Might assets (by spritemight) available at https://forums.rpgmakerweb.com/index.php?threads/sprite-might-assets-rpg-maker-2003.76339/ :
 
 Shell:
 
