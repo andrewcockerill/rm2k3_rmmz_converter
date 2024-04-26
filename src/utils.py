@@ -59,6 +59,8 @@ class SpriteConverter:
     def set_image(self, loc):
         self.loc = loc
         img = Image.open(loc)
+        if img.mode != 'RGB':
+            img = img.convert('RGB')
         arr_img = np.asarray(img)
         self.image = arr_img
         return self
